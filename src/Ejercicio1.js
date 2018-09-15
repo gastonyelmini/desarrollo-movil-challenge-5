@@ -19,6 +19,7 @@ export default class EjemploFlex extends Component {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
+    flexDirection: 'row',
     marginVertical: 40,
     backgroundColor: '#ddd',
   },
